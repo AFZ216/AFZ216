@@ -1,4 +1,4 @@
-<img src="banner.svg" width="100%" alt="Ali Fayazi — Software Developer"/>
+<img src="banner.svg?v=2" width="100%" alt="Ali Fayazi — Software Developer"/>
 
 <p align="center">
   <a href="https://github.com/AFZ216">
@@ -12,11 +12,10 @@
 - 📱 I mostly build **cross-platform mobile apps** with **Flutter & Dart**
 - 🔭 I'm currently working on: **mobile apps & my university projects**
 - 🌱 I'm currently learning: **clean architecture, state management & backend development**
-- 👯 I'm looking to collaborate on: **mobile app & student projects**
+- 👯 **Mobile app & student projects**
 - 🎮 I also enjoy making games with **Unity & C#**
 - 💬 Ask me about: **Flutter, Python, C#, Git**
 - 📫 How to reach me: **ali.fayazi216@gmail.com**
-- 😄 Pronouns: **He/Him**
 
 ---
 
@@ -41,7 +40,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AFZ216&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AFZ216&show_icons=true&theme=radical&hide_border=false&v=2" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=AFZ216&theme=radical" height="165"/>
 </p>
 
@@ -56,4 +55,4 @@
   <a href="https://www.instagram.com/_ali_fayazi_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<img src="footer.svg" width="100%" alt=""/>
+<img src="footer.svg?v=2" width="100%" alt=""/>
