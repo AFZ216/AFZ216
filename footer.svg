@@ -1,0 +1,21 @@
+<svg viewBox="0 0 1200 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="faccent" x1="0" y1="0" x2="1200" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9D50BB">
+        <animate attributeName="stop-color" values="#9D50BB;#36BCF7;#00FFAA;#9D50BB" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#36BCF7">
+        <animate attributeName="stop-color" values="#36BCF7;#00FFAA;#9D50BB;#36BCF7" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <style>
+      .fmono { font-family: 'Courier New', Courier, monospace; }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: 0.9; } 50% { opacity: 0.45; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="1198" height="108" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="103" width="1198" height="6" rx="3" fill="url(#faccent)"/>
+  <text x="600" y="48" text-anchor="middle" class="fmono" font-size="20" fill="#c9d1d9">while (alive) { keepCoding(); }</text>
+  <text x="600" y="82" text-anchor="middle" class="fmono pulse" font-size="15" fill="#8b949e">// thanks for visiting</text>
+</svg>

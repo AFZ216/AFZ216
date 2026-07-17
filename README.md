@@ -1,27 +1,28 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9D50BB&height=200&section=header&text=Ali%20Fayazi&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-### 💻 Software Developer | Mobile & Cross-Platform Apps 📱
+<img src="banner.svg" width="100%" alt="Ali Fayazi — Software Developer"/>
 
 <p align="center">
   <a href="https://github.com/AFZ216">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=900&color=00FFAA&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Ali+Fayazi;Computer+Engineering+Student+%40+SBU;Flutter+%7C+Python+%7C+C%23+%7C+Java;Building+Apps%2C+Games+%26+Everything+Between;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=900&color=00FFAA&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Ali+Fayazi;Computer+Engineering+Student+%40+SBU;Flutter+%7C+Python+%7C+C%23+%7C+C%2B%2B+%7C+Java+%7C+JS;Building+Apps%2C+Games+%26+Everything+Between;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
----
-
 ## 🌟 About Me
 
-- 🎓 Computer Engineering student at **Shahid Beheshti University (SBU)**, Tehran
-- 📱 I mostly build **cross-platform mobile apps** with **Flutter & Dart**
-- 🔭 I'm currently working on: **mobile apps & my university projects**
-- 🌱 I'm currently learning: **clean architecture, state management & backend development**
-- 👯 I'm looking to collaborate on: **mobile app & student projects**
-- 🎮 I also enjoy making games with **Unity & C#**
-- 💬 Ask me about: **Flutter, Python, C#, Git**
-- 📫 How to reach me: **ali.fayazi216@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I'm a member of my university's **poetry group** 📖
+```dart
+class AliFayazi {
+  final education   = "Computer Engineering @ Shahid Beheshti University (SBU), Tehran";
+  final focus       = "Cross-platform mobile apps with Flutter & Dart";
+
+  final workingOn   = ["Mobile apps", "University projects"];
+  final learning    = ["Clean Architecture", "State Management", "Backend Development"];
+  final collabOn    = ["Mobile app projects", "Student projects"];
+  final alsoEnjoy   = "Making games with Unity & C#";
+
+  final askMeAbout  = ["Flutter", "Python", "C#", "Git"];
+  final reachMe     = "ali.fayazi216@gmail.com";
+  final pronouns    = "He/Him";
+}
+```
 
 ---
 
@@ -50,12 +51,19 @@
   <img src="https://streak-stats.demolab.com/?user=AFZ216&theme=radical" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AFZ216&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
 ---
 
-## 🏆 GitHub Profile Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AFZ216&theme=onedark&row=1&column=6" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AFZ216/AFZ216/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/AFZ216/AFZ216/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+  </picture>
 </p>
 
 ---
@@ -69,6 +77,4 @@
   <a href="https://www.instagram.com/_ali_fayazi_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D50BB,100:36BCF7&height=120&section=footer" width="100%"/>
+<img src="footer.svg" width="100%" alt="while (alive) { keepCoding(); }"/>

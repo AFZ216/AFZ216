@@ -1,0 +1,55 @@
+<svg viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#36BCF7">
+        <animate attributeName="stop-color" values="#36BCF7;#9D50BB;#00FFAA;#36BCF7" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#9D50BB">
+        <animate attributeName="stop-color" values="#9D50BB;#00FFAA;#36BCF7;#9D50BB" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#21262d" stroke-width="1"/>
+    </pattern>
+    <style>
+      .mono { font-family: 'Courier New', Courier, monospace; }
+      .float1 { animation: drift 7s ease-in-out infinite; }
+      .float2 { animation: drift 9s ease-in-out infinite 1.5s; }
+      .float3 { animation: drift 8s ease-in-out infinite 3s; }
+      @keyframes drift { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-14px); } }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+      .fadein { animation: fadein 1.6s ease-out forwards; opacity: 0; }
+      @keyframes fadein { to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect x="1" y="1" width="1198" height="298" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="298" rx="16" fill="url(#grid)" opacity="0.55"/>
+
+  <!-- top accent line -->
+  <rect x="1" y="1" width="1198" height="6" rx="3" fill="url(#accent)"/>
+
+  <!-- window dots -->
+  <circle cx="36" cy="34" r="7" fill="#ff5f56"/>
+  <circle cx="60" cy="34" r="7" fill="#ffbd2e"/>
+  <circle cx="84" cy="34" r="7" fill="#27c93f"/>
+  <text x="110" y="40" class="mono" font-size="15" fill="#8b949e">~/ali-fayazi/profile</text>
+
+  <!-- floating code symbols -->
+  <g class="float1"><text x="150" y="215" class="mono" font-size="46" fill="#1f6feb" opacity="0.35">{ }</text></g>
+  <g class="float2"><text x="990" y="130" class="mono" font-size="42" fill="#00FFAA" opacity="0.30">&lt;/&gt;</text></g>
+  <g class="float3"><text x="1035" y="235" class="mono" font-size="38" fill="#9D50BB" opacity="0.35">;</text></g>
+  <g class="float2"><text x="90" y="120" class="mono" font-size="34" fill="#36BCF7" opacity="0.30">( )</text></g>
+
+  <!-- main name -->
+  <g class="fadein">
+    <text x="600" y="160" text-anchor="middle" class="mono" font-size="64" font-weight="bold" fill="url(#accent)">&lt;AliFayazi /&gt;</text>
+    <rect x="878" y="118" width="16" height="48" fill="#00FFAA" class="cursor"/>
+  </g>
+
+  <!-- subtitle -->
+  <text x="600" y="215" text-anchor="middle" class="mono" font-size="24" fill="#c9d1d9">Software Developer&#160;&#160;·&#160;&#160;Mobile &amp; Cross-Platform Apps</text>
+  <text x="600" y="255" text-anchor="middle" class="mono" font-size="17" fill="#8b949e">Flutter&#160;&#160;•&#160;&#160;Python&#160;&#160;•&#160;&#160;C#&#160;&#160;•&#160;&#160;Java&#160;&#160;•&#160;&#160;Unity</text>
+</svg>
