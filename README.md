@@ -16,9 +16,11 @@
 - 📱 I mostly build **cross-platform mobile apps** with **Flutter & Dart**
 - 🔭 I'm currently working on: **mobile apps & my university projects**
 - 🌱 I'm currently learning: **clean architecture, state management & backend development**
+- 👯 I'm looking to collaborate on: **mobile app & student projects**
 - 🎮 I also enjoy making games with **Unity & C#**
 - 💬 Ask me about: **Flutter, Python, C#, Git**
 - 📫 How to reach me: **ali.fayazi216@gmail.com**
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I'm a member of my university's **poetry group** 📖
 
 ---
@@ -26,7 +28,7 @@
 ## 💡 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,py,cs,java,unity,html,css,mysql,git,github,figma,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,py,cs,cpp,java,js,unity,html,css,mysql,git,github,figma,vscode,androidstudio" />
 </p>
 
 ---
@@ -34,8 +36,10 @@
 ## 🛠 Highlighted Projects
 
 - 💳 **Fintech Super-App Client** — full front-end of a financial mobile app · `Flutter, Dart, REST APIs`
+- 🎧 **Music Player App** — mobile audio player with a clean UI · `Flutter, Dart`
 - 🎮 **Multiplayer Game** — online/offline modes with lobby & host/client sync · `Unity, C#`
 - 🎵 **Audio Signal Processing** — echo & reverb effects built from scratch · `Python`
+- 🖥 **TIS-100 Processor Node** — ISA design & implementation of a parallel processing node (T21) · `SystemVerilog`
 
 ---
 
@@ -61,6 +65,8 @@
 <p align="center">
   <a href="mailto:ali.fayazi216@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/AFZ216"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://t.me/Ali_216dddk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_ali_fayazi_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
