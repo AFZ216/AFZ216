@@ -19,8 +19,6 @@
       @keyframes drift { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-14px); } }
       .cursor { animation: blink 1.1s steps(1) infinite; }
       @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
-      .fadein { animation: fadein 1.6s ease-out forwards; opacity: 0; }
-      @keyframes fadein { to { opacity: 1; } }
     </style>
   </defs>
 
@@ -44,7 +42,7 @@
   <g class="float2"><text x="90" y="120" class="mono" font-size="34" fill="#36BCF7" opacity="0.30">( )</text></g>
 
   <!-- main name -->
-  <g class="fadein">
+  <g>
     <text x="600" y="160" text-anchor="middle" class="mono" font-size="64" font-weight="bold" fill="url(#accent)">&lt;AliFayazi /&gt;</text>
     <rect x="878" y="118" width="16" height="48" fill="#00FFAA" class="cursor"/>
   </g>
