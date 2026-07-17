@@ -8,21 +8,15 @@
 
 ## 🌟 About Me
 
-```dart
-class AliFayazi {
-  final education   = "Computer Engineering @ Shahid Beheshti University (SBU), Tehran";
-  final focus       = "Cross-platform mobile apps with Flutter & Dart";
-
-  final workingOn   = ["Mobile apps", "University projects"];
-  final learning    = ["Clean Architecture", "State Management", "Backend Development"];
-  final collabOn    = ["Mobile app projects", "Student projects"];
-  final alsoEnjoy   = "Making games with Unity & C#";
-
-  final askMeAbout  = ["Flutter", "Python", "C#", "Git"];
-  final reachMe     = "ali.fayazi216@gmail.com";
-  final pronouns    = "He/Him";
-}
-```
+- 🎓 Computer Engineering student at **Shahid Beheshti University (SBU)**, Tehran
+- 📱 I mostly build **cross-platform mobile apps** with **Flutter & Dart**
+- 🔭 I'm currently working on: **mobile apps & my university projects**
+- 🌱 I'm currently learning: **clean architecture, state management & backend development**
+- 👯 I'm looking to collaborate on: **mobile app & student projects**
+- 🎮 I also enjoy making games with **Unity & C#**
+- 💬 Ask me about: **Flutter, Python, C#, Git**
+- 📫 How to reach me: **ali.fayazi216@gmail.com**
+- 😄 Pronouns: **He/Him**
 
 ---
 
@@ -51,21 +45,6 @@ class AliFayazi {
   <img src="https://streak-stats.demolab.com/?user=AFZ216&theme=radical" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AFZ216&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AFZ216/AFZ216/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/AFZ216/AFZ216/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
-  </picture>
-</p>
-
 ---
 
 ## 🌐 Connect with me
@@ -77,4 +56,4 @@ class AliFayazi {
   <a href="https://www.instagram.com/_ali_fayazi_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<img src="footer.svg" width="100%" alt="while (alive) { keepCoding(); }"/>
+<img src="footer.svg" width="100%" alt=""/>
